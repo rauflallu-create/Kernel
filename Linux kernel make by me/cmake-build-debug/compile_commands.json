@@ -1,0 +1,32 @@
+[
+{
+  "directory": "E:/Linux kernel make by me/cmake-build-debug",
+  "command": "\"E:\\Clion\\CLion 2026.3.0.2\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Clolix.dir\\main.cpp.obj -c \"E:\\Linux kernel make by me\\main.cpp\"",
+  "file": "E:/Linux kernel make by me/main.cpp",
+  "output": "E:/Linux kernel make by me/cmake-build-debug/CMakeFiles/Clolix.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/Linux kernel make by me/cmake-build-debug",
+  "command": "\"E:\\Clion\\CLion 2026.3.0.2\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Clolix.dir\\vim.cpp.obj -c \"E:\\Linux kernel make by me\\vim.cpp\"",
+  "file": "E:/Linux kernel make by me/vim.cpp",
+  "output": "E:/Linux kernel make by me/cmake-build-debug/CMakeFiles/Clolix.dir/vim.cpp.obj"
+},
+{
+  "directory": "E:/Linux kernel make by me/cmake-build-debug",
+  "command": "\"E:\\Clion\\CLion 2026.3.0.2\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Clolix.dir\\browser.cpp.obj -c \"E:\\Linux kernel make by me\\browser.cpp\"",
+  "file": "E:/Linux kernel make by me/browser.cpp",
+  "output": "E:/Linux kernel make by me/cmake-build-debug/CMakeFiles/Clolix.dir/browser.cpp.obj"
+},
+{
+  "directory": "E:/Linux kernel make by me/cmake-build-debug",
+  "command": "\"E:\\Clion\\CLion 2026.3.0.2\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Clolix.dir\\backendopt.cpp.obj -c \"E:\\Linux kernel make by me\\backendopt.cpp\"",
+  "file": "E:/Linux kernel make by me/backendopt.cpp",
+  "output": "E:/Linux kernel make by me/cmake-build-debug/CMakeFiles/Clolix.dir/backendopt.cpp.obj"
+},
+{
+  "directory": "E:/Linux kernel make by me/cmake-build-debug",
+  "command": "\"E:\\Clion\\CLion 2026.3.0.2\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Clolix.dir\\compiler.cpp.obj -c \"E:\\Linux kernel make by me\\compiler.cpp\"",
+  "file": "E:/Linux kernel make by me/compiler.cpp",
+  "output": "E:/Linux kernel make by me/cmake-build-debug/CMakeFiles/Clolix.dir/compiler.cpp.obj"
+}
+]

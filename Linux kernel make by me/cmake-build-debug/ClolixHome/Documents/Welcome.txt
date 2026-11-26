@@ -1,0 +1,2 @@
+Welcome to Clolix OS!
+Apps: Files, Terminal, Editor, Vim, Browser (Google), C++ IDE.

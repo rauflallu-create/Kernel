@@ -1,0 +1,6 @@
+Welcome to MyVirtualOS (Ubuntu-style desktop)!
+
+- Click 'Activities' or the grid button in the dock to see all apps.
+- Open the Terminal and type 'help' to see the commands.
+- Files are stored in the 'UbuntuHome' folder next to the program.Fuck you!!!!!
+

@@ -1,0 +1,2 @@
+Welcome to CloneX OS!
+Apps: Files, Terminal, Editor, Vim, Browser, C++ IDE.
